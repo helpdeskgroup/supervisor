@@ -8,7 +8,7 @@ To use this container, you will need to provide a supervisor configuration file 
 ```
 docker run -d \
   -v ./config/supervisord.conf:/etc/supervisor/supervisord.conf \
-  lwitherington/supervisor
+  helpdeskgroup/supervisor
 ```
 
 In the above example we assume that:
