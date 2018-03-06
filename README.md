@@ -36,4 +36,4 @@ You can configure Supervisor daemon by following env variables:
 ```
 
 ## Author
-* Lee Witherington (<lee@witherington.net>)
+* helpdeskgroup (<helpdeskgroup@helpme.net>)
