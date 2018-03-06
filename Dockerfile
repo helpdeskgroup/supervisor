@@ -1,5 +1,5 @@
 FROM alpine:3.7
-MAINTAINER Lee Witherington lee@witherington.net
+MAINTAINER helpdeskgroup helpdeskgroup@helpme.net
 
 RUN apk update && \
     apk upgrade && \
