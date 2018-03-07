@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.4
 MAINTAINER helpdeskgroup helpdeskgroup@helpme.net
 
 RUN apk update && \
